@@ -192,7 +192,7 @@ input:focus{
     border: none !important;
 }
 #weight,#height{
-    width: 30px;
+    width: 50px;
 }
 #gender.col-1-2{
     display: flex;
